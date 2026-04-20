@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Environment configurations
+.env
+
+# Application Logs
+*.log
+lam_execution.log
+lam_dom_execution.log
+
+# States/Screenshots
+states/
+
+# Any MacOS files
+.DS_Store
+
+# Video files (too large for GitHub)
+*.mp4
