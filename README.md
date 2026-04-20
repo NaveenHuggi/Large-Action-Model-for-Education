@@ -1,4 +1,4 @@
-# Large Action Model (LAM) for Education
+# Large Action Model (LAM) for Education and Research
 
 A DOM-driven, LLM-orchestrated UI Automation Agent tailored for complex web tasks, educational research, and UI task completion. The system plans, executes, reflects, and self-heals in real-time.
 
