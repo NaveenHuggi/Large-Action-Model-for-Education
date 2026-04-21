@@ -106,7 +106,7 @@ streamlit run app.py
 5. Provide the `--keep-alive` configuration to view the browser post-execution manually.
 
 ## 🧠 How It Works
-1. **Macro Planning:** The user task is processed by a 70B parameter LLM which defines a granular action plan.
+1. **Macro Planning:** The user task is processed by a 8B parameter LLM which defines a granular action plan.
 2. **Browser Initialization:** Chromium launches with `headless=False` for full transparency.
 3. **Execution Loop:**
    - **Capture Before state** (screenshot).
